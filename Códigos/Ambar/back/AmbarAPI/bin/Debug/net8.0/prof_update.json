@@ -1,0 +1,10 @@
+﻿{
+    "Id":  2,
+    "Conselho":  null,
+    "Registro_Conselho":  null,
+    "Senha":  "Senha123!",
+    "TipoUsuario":  "Cuidador",
+    "Nome":  "Luis",
+    "Funcao":  null,
+    "Email":  "teste@teste.com"
+}
