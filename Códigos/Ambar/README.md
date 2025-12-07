@@ -50,7 +50,7 @@ dotnet run
 
 Se tudo estiver correto, a API iniciará no terminal exibindo algo como:
 
-Now listening on: http://localhost:xxxx
+Now listening on: http://localhost:5034/swagger/index.html
 
 🛠️ Tecnologias Utilizadas
 Frontend
